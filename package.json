@@ -1,12 +1,12 @@
 {
-  "name": "seti-classic",
+  "name": "settee",
   "theme": "ui",
   "version": "0.10.1",
   "description": "A dark colored UI theme for Atom with custom file icons.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vermotr/seti-classic.git"
+    "url": "git+https://github.com/imnofox/settee.git"
   },
   "engines": {
     "atom": ">0.99.0"
